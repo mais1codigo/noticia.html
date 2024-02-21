@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+        <head>
+<title>noticia HTML</title>
+        </head>
+        <body>
+            <H1>Noticia do dia</H1>
+            <p>meu nome é joão victor e eu tenho 24 anos</p>
+            <p>eu gosto de jogar e beber cerveja</p>
+            <p>vontade de dormir ta alta hoje</p>
+            <p>amanha é quinta ainda</p>
+        </body>
+        <footer>meu contato é 000-000-000</footer>
